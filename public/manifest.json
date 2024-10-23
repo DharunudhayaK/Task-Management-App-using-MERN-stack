@@ -1,0 +1,28 @@
+{
+  "short_name": "Kanban App",
+  "name": "Kanban Board Application",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon",
+      "color": "red"
+    },
+    {
+      "src": "favicon.ico",
+      "type": "image/png",
+      "color": "red",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon.ico",
+      "type": "image/png",
+      "sizes": "512x512",
+      "color": "red"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4CAF50",
+  "background_color": "#FFFFFF"
+}
